@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cats.xsl"?>
+
+<cats
+    xmlns="task1ns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="cats.xsd">
+
+    <cat>
+        <name>Cat 1</name>
+        <url>/img/cat1.jpg</url>
+        <alt>This is cat 1</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 2</name>
+        <url>/img/cat2.jpg</url>
+        <alt>This is cat 2</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 3</name>
+        <url>/img/cat3.jpg</url>
+        <alt>This is cat 3</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 4</name>
+        <url>/img/cat4.jpg</url>
+        <alt>This is cat 4</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 5</name>
+        <url>/img/cat5.jpg</url>
+        <alt>This is cat 5</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 6</name>
+        <url>/img/cat6.jpg</url>
+        <alt>This is cat 6</alt>
+    </cat>
+
+    <cat>
+        <name>Cat 7</name>
+        <url>/img/cat7.jpg</url>
+        <alt>This is cat 7</alt>
+    </cat>
+
+</cats>

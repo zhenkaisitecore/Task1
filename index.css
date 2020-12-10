@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+}
+
+.gallery
+{
+    list-style: none;
+    margin: 2em 0;
+}
+
+.gallery li
+{
+    display: inline;
+    margin: 2em 1em;
+}
+
+img
+{
+    border: 0.2em solid;
+}
+
+.selected
+{
+    border-color: green;
+    transform: scale(1.2);
+}
+
+.not-selected
+{
+    border-color: yellow;
+}
